@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pixel
+comment0.target=void\ draw(int[][])
+comment0.text=\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\n\ \ \ \ \ \ \ The\ "draw"\ method\ copies\ the\ "image"\ stored\ in\n\ \ \ \ \ \ \ the\ variable\ "pixel"\ onto\ the\ "Image"\ variable\n\n\ \ \ \ \ \ \ This\ make\ drawing\ pictures\ easier\:\ \n\ \ \ \ \ \ \ \ \ \ \ you\ set\ up\ the\ image\ inside\ the\ variable\ "pixel"\ \n\ \ \ \ \ \ \ \ \ \ \ and\ then\ call\ the\ "draw"\ method\ to\ copy\ the\ image\ \n\ \ \ \ \ \ \ \ \ \ \ on\ to\ the\ screen\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\ -----------------------------------------\n\ \ \ \ \ \ \ repaint\ will\ invoke\ paint()\ \n\ \ \ \ \ \ \ and\ will\ use\ "Image"\n-----------------------------------------
+comment2.params=g
+comment2.target=void\ update(java.awt.Graphics)
+comment2.text=\ -----------------------------------------\n\ \ \ \ \ \ \ Redefine\ update()\ will\ eliminate\ flicker\n-----------------------------------------
+numComments=3
